@@ -1,0 +1,8 @@
+nav{
+    display:inline-flex;
+
+    color: black;
+}
+nav:hover{
+    color: red;
+}
